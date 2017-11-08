@@ -1,0 +1,29 @@
+{
+    "name": "fixthecode-vs",
+    "displayName": "Sea Green Theme",
+    "description": "Minimalistic VS Code Theme",
+    "version": "0.0.5",
+    "publisher": "raashida",
+    "icon": "seagreen-icon.png",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "author": {
+        "name": "RaashidA"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark theme", "Sea Green Theme", "Theme", "Minimalistic", "Green"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sea Green Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fixthecode-color-theme.json" 
+            }
+        ]
+    }
+}
