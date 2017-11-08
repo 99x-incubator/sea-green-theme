@@ -17,6 +17,10 @@
     "keywords": [
         "Dark theme", "Sea Green Theme", "Theme", "Minimalistic", "Green"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/99xt/Sea-green-theme.git"
+    },
     "contributes": {
         "themes": [
             {
