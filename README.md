@@ -22,7 +22,7 @@ Crafted with :heart: at <a href="http://99xtechnology.com/">99X Technology</a>
 
 ---
 
-If your a brack user, have a look at here <a href="https://github.com/99xt/FixTheCode">FixtheCode Bracket Theme</a>
+If your a bracket user, have a look at here <a href="https://github.com/99xt/FixTheCode">FixtheCode Bracket Theme</a>
 
 
 **Enjoy!**
