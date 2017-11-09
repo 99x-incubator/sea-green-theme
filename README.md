@@ -13,11 +13,9 @@
 
 Minimalistic Theme for VS Code.
 
-Screenshots
----
+#### JS & CSS
 
-### JS & CSS
-![HTML Screenshot](https://github.com/99xt/Sea-green-theme/blob/master/img/js&css.jpg)
+![js&css](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/js%26css.jpg)
 
 
 Crafted with :heart: at <a href="http://99xtechnology.com/">99X Technology</a>
