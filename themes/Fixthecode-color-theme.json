@@ -2,18 +2,20 @@
 	"name": "Fixthecode",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
+		"editor.background": "#0b0f15",
+		"editor.foreground": "#25a2a6",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
+	
 	"tokenColors": [ 
 		{
 			"settings": {
-				"foreground": "#eeffffff",
+				"foreground": "#eeffff",
 				"background": "#263238ff"
 			}
 		},
+		
 		{
 			"name": "Comment",
 			"scope": [
@@ -370,7 +372,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#25a2a6"
 			}
 		},
 		{
