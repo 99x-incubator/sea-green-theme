@@ -6,9 +6,29 @@
 
 Minimalistic Theme for VS Code.
 
-#### JS & CSS
+#### CSS
 
-![codesample](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/codesample.jpg)
+![CSS](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/css.jpg)
+
+#### Java
+
+![Java](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/js.jpg)
+
+#### PHP
+
+![PHP](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/php.jpg)
+
+#### Ruby
+
+![Ruby](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/ruby.jpg)
+
+#### Less
+
+![Less](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/less.jpg)
+
+#### TypeScript
+
+![TypeScript](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/ts.jpg)
 
 
 Crafted with :heart: at <a href="http://99xtechnology.com/">99X Technology</a>
