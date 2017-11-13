@@ -4,9 +4,19 @@
 	"colors": {
 		"editor.background": "#0b0f15",
 		"editor.foreground": "#25a2a6",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#eed713",
+		"activityBarBadge.foreground": "#000000",
+		"activityBar.background":"#0a1018",
+		"activityBar.foreground":"#47586f",
+		"sideBar.background":"#060b12",
+		"sideBarTitle.foreground":"#0a1018",
+		"sideBarSectionHeader.background":"#0a1018",
+		"sideBar.border":"#34404f"
 	},
+
+	"workspace.experimental.colorCustomization": {
+		"tab.activeBackground": "#25a2a6"
+	},	
 	
 	"tokenColors": [ 
 		{
@@ -15,7 +25,7 @@
 				"background": "#263238ff"
 			}
 		},
-		
+	
 		{
 			"name": "Comment",
 			"scope": [
