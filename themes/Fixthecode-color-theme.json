@@ -5,9 +5,11 @@
 		"editor.background": "#0a1018",
 		"editor.foreground": "#25a2a6",
 		"editorCursor.foreground":"#d8c569",
-		"editor.selectionBackground":"#202b3c",
+		"editor.selectionBackground":"#273449",
+		"editor.selectionHighlightBackground":"#7488a7",
+		"editor.inactiveSelectionBackground":"#3f506b",
 
-		"list.activeSelectionBackground":"#0e131b",
+		"list.activeSelectionBackground":"#1a2029",
 		"list.activeSelectionForeground":"#25a2a6",
 		"list.hoverBackground":"#0e131b",
 		"list.hoverForeground":"#d8c569",
@@ -38,6 +40,7 @@
 		"sideBarSectionHeader.background":"#0a1018",
 		"sideBarSectionHeader.foreground":"#576b8a",
 		"sideBar.border":"#151b25"
+	
 	},
 
 	"workspace.experimental.colorCustomization": {
