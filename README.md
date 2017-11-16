@@ -6,6 +6,8 @@
 
 Minimalistic Theme for VS Code.
 
+How to install <a href="https://marketplace.visualstudio.com/items?itemName=raashida.fixthecode-vs">Visual Studio Marketplace</a>  
+
 #### CSS
 
 ![CSS](https://raw.githubusercontent.com/99xt/Sea-green-theme/master/img/css.jpg)

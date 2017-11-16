@@ -5,9 +5,9 @@
 		"editor.background": "#0a1018",
 		"editor.foreground": "#25a2a6",
 		"editorCursor.foreground":"#d8c569",
-		"editor.selectionBackground":"#273449",
-		"editor.selectionHighlightBackground":"#7488a7",
-		"editor.inactiveSelectionBackground":"#3f506b",
+		"editor.selectionBackground":"#1e3b3c",
+		"editor.selectionHighlightBackground":"#232e3f",
+		"editor.inactiveSelectionBackground":"#303e53",
 
 		"list.activeSelectionBackground":"#1a2029",
 		"list.activeSelectionForeground":"#25a2a6",
@@ -32,7 +32,6 @@
 		"activityBar.dropBackground":"#151b25",
 		"activityBarBadge.background": "#FF5370",
 		"activityBarBadge.foreground": "#000000",
-
 
 		"sideBar.background":"#0e131b",
 		"sideBar.foreground":"#7f8792",
