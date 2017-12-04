@@ -5,7 +5,7 @@
 		"editor.background": "#0a1018",
 		"editor.foreground": "#25a2a6",
 		"editorCursor.foreground":"#d8c569",
-		"editor.selectionBackground":"#1e3b3c",
+		"editor.selectionBackground":"#303e53",
 		"editor.selectionHighlightBackground":"#232e3f",
 		"editor.inactiveSelectionBackground":"#303e53",
 
@@ -27,8 +27,8 @@
 		"editorGroupHeader.tabsBackground":"#070b11",
 		"editorGroupHeader.tabsBorder":"#151b25",
 
-		"activityBar.background":"#0a1018",
-		"activityBar.foreground":"#47586f",
+		"activityBar.background":"#151b25",
+		"activityBar.foreground":"#25a2a6",
 		"activityBar.dropBackground":"#151b25",
 		"activityBarBadge.background": "#FF5370",
 		"activityBarBadge.foreground": "#000000",
@@ -37,7 +37,7 @@
 		"sideBar.foreground":"#7f8792",
 		"sideBarTitle.foreground":"#0a1018",
 		"sideBarSectionHeader.background":"#0a1018",
-		"sideBarSectionHeader.foreground":"#576b8a",
+		"sideBarSectionHeader.foreground":"#64B1CE",
 		"sideBar.border":"#151b25"
 	
 	},
@@ -50,7 +50,7 @@
 		{
 			"settings": {
 				"foreground": "#eeffff",
-				"background": "#263238ff"
+				"background": "#263238"
 			}
 		},
 	
