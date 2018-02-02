@@ -40,14 +40,18 @@
 		// "dropdown.border":,
 		// "dropdown.foreground":,
 
-		"input.background":"#242b38",
+		"input.background":"#373f4e",
 		"input.foreground":"#bcc8e0",
 		"input.placeholderForeground":"#5e687a",
+		"inputOption.activeBorder":"#5e687a",
 
+		"editorWidget.background":"#242b38",
+		"editorWidget.border":"#d8c569",
+		
 		"badge.foreground":"#151b25",
 		"badge.background":"#d8c569",
 
-		"progressBar.background":"#d8c569",
+		"progressBar.background":"#d8c569", 
 
 		"notification.background":"#242b38",
 
@@ -58,7 +62,13 @@
 		"sideBarTitle.foreground":"#25a2a6",
 		"sideBarSectionHeader.background":"#0a1018",
 		"sideBarSectionHeader.foreground":"#64B1CE",
-		"sideBar.border":"#151b25"
+		"sideBar.border":"#151b25",
+
+		"statusBar.background":"#242b38",
+		"statusBar.foreground":"#25a2a6",
+
+		"panel.background":"#d8c569"
+
 	},
 
 	"workspace.experimental.colorCustomization": {

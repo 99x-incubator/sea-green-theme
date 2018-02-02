@@ -2,7 +2,7 @@
     "name": "fixthecode-vs",
     "displayName": "Sea Green Theme",
     "description": "Minimalistic VS Code Theme",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "raashida",
     "icon": "seagreen-icon.png",
     "engines": {
