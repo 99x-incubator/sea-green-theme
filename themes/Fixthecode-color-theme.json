@@ -36,9 +36,9 @@
 		"button.background":"#25a2a6",
 		"button.foreground":"#151b25",
 
-		// "dropdown.background":,
-		// "dropdown.border":,
-		// "dropdown.foreground":,
+		"dropdown.background":"#151b25",
+		"dropdown.border":"#373f4e",
+		"dropdown.foreground":"#fff",
 
 		"input.background":"#373f4e",
 		"input.foreground":"#bcc8e0",
@@ -65,7 +65,7 @@
 		"sideBar.border":"#151b25",
 
 		"statusBar.background":"#242b38",
-		"statusBar.foreground":"#25a2a6",
+		"statusBar.foreground":"#7f8796",
 
 		"panel.background":"#151b25"
 
