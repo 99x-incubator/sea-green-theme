@@ -9,6 +9,8 @@
 		"editor.selectionHighlightBackground":"#232e3f",
 		"editor.inactiveSelectionBackground":"#303e53",
 
+		"errorForeground":"#e72c7a",
+
 		"list.activeSelectionBackground":"#1a2029",
 		"list.activeSelectionForeground":"#25a2a6",
 		"list.hoverBackground":"#0e131b",
@@ -53,8 +55,6 @@
 
 		"progressBar.background":"#d8c569", 
 
-		"notification.background":"#242b38",
-
 		"terminal.background":"#060b11",
 
 		"sideBar.background":"#0e131b",
@@ -63,6 +63,15 @@
 		"sideBarSectionHeader.background":"#0a1018",
 		"sideBarSectionHeader.foreground":"#64B1CE",
 		"sideBar.border":"#151b25",
+
+		"notificationCenter.border":"#25a2a6",
+		"notificationCenterHeader.foreground":"#fff",
+		"notificationCenterHeader.background":"#25a2a6",
+		"notificationToast.border":"#242b38",
+		"notifications.foreground":"#7f8796",
+		"notifications.background":"#242b38",
+		"notifications.border":"#7f8796",
+		"notificationLink.foreground":"#7f8796",
 
 		"statusBar.background":"#242b38",
 		"statusBar.foreground":"#7f8796",
