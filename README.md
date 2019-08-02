@@ -1,4 +1,4 @@
-# README
+# Sea Green Theme
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/raashida.fixthecode-vs.svg)](https://marketplace.visualstudio.com/items?itemName=raashida.fixthecode-vs)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/raashida.fixthecode-vs.svg)](https://marketplace.visualstudio.com/items?itemName=raashida.fixthecode-vs)
@@ -6,7 +6,13 @@
 
 Minimalistic Theme for VS Code.
 
-How to install <a href="https://marketplace.visualstudio.com/items?itemName=raashida.fixthecode-vs">Visual Studio Marketplace</a>  
+## Installation
+
+1. Open the **Extensions** sidebar in VS Code
+2. Search for `Sea Green Theme`
+3. Click **Install**
+4. Enjoy! 🎉
+<a href="https://marketplace.visualstudio.com/items?itemName=raashida.fixthecode-vs">Visual Studio Marketplace</a>  
 
 #### CSS
 
@@ -39,5 +45,13 @@ Crafted with :heart: at <a href="http://99xtechnology.com/">99X Technology</a>
 
 If your a bracket user, have a look at here <a href="https://github.com/99xt/FixTheCode">FixtheCode Bracket Theme</a>
 
+## Contributing
+
+Check out the [contributing guide](CONTRIBUTING.md) to learn how you can report issues and help make changes.
+
+
+## License
+
+[MIT](LICENSE) © [Raashid A.](https://github.com/raashidA)
 
 **Enjoy!**
