@@ -55,7 +55,12 @@
 
 		"progressBar.background":"#d8c569", 
 
-		"terminal.background":"#060b11",
+		"terminal.background":"#282e36",
+		"terminal.foreground":"#999999",
+
+		"welcomePage.buttonBackground":"#373f4e",
+		"welcomePage.buttonHoverBackground":"#114b4d",
+
 
 		"sideBar.background":"#0e131b",
 		"sideBar.foreground":"#7f8792",
@@ -76,12 +81,18 @@
 		"statusBar.background":"#242b38",
 		"statusBar.foreground":"#7f8796",
 
-		"panel.background":"#151b25"
+		"panel.background":"#1a1f29",
+		"panel.border":"#047275",
+		"panel.dropBackground":"#d8c569",
+		"panelTitle.activeBorder":"#d8c569",
+		"panelTitle.activeForeground":"#7f8796",
+		"panelTitle.inactiveForeground":"#545963",
+
 
 	},
 
 	"workspace.experimental.colorCustomization": {
-		"tab.activeBackground": "#25a2a6"
+		"tab.activeBackground": "#25a2a6",
 	},	
 	
 	"tokenColors": [ 
